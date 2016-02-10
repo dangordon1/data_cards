@@ -1,0 +1,50 @@
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+>>> including systematics
+>>> method used to compute upper limit is Asymptotic
+>>> random number generator seed is 123456
+[?1034h
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+Computing limit starting from observation
+Will compute both limit(s) using minimizer Minuit2 with strategy 0 and tolerance 0.01
+Median for expected limits: 0.299805
+Sigma  for expected limits: 0.152964
+Restricting r to positive values.
+
+Make global fit of real data
+NLL at global minimum of data: -32798.6 (r = 2.97675e-06)
+
+Make global fit of asimov data
+NLL at global minimum of asimov: -32799.7 (r = 1.28109e-05)
+At r = 41.305753:	q_mu = 34449.78234	q_A  = 34449.16077	CLsb = 0.00000	CLb  = 0.49933	CLs  = 0.00000
+At r = 20.652878:	q_mu = 13322.88681	q_A  = 13322.42285	CLsb = 0.00000	CLb  = 0.49920	CLs  = 0.00000
+At r = 10.326440:	q_mu = 4561.72356	q_A  = 4561.39547	CLsb = 0.00000	CLb  = 0.49903	CLs  = 0.00000
+At r = 5.163222:	q_mu = 1366.65646	q_A  = 1366.44318	CLsb = 0.00000	CLb  = 0.49885	CLs  = 0.00000
+At r = 2.581612:	q_mu = 381.60471	q_A  = 381.47910	CLsb = 0.00000	CLb  = 0.49872	CLs  = 0.00000
+At r = 1.290808:	q_mu = 109.18893	q_A  = 109.11570	CLsb = 0.00000	CLb  = 0.49860	CLs  = 0.00000
+At r = 0.645405:	q_mu = 24.91372	q_A  = 24.87471	CLsb = 0.00000	CLb  = 0.49844	CLs  = 0.00000
+At r = 0.322704:	q_mu = 4.65408	q_A  = 4.63641	CLsb = 0.01549	CLb  = 0.49836	CLs  = 0.03108
+At r = 0.161354:	q_mu = 0.80365	q_A  = 0.79656	CLsb = 0.18500	CLb  = 0.49841	CLs  = 0.37118
+At r = 0.242029:	q_mu = 2.24265	q_A  = 2.23042	CLsb = 0.06712	CLb  = 0.49837	CLs  = 0.13469
+At r = 0.285644:	q_mu = 3.41857	q_A  = 3.40342	CLsb = 0.03223	CLb  = 0.49836	CLs  = 0.06468
+At r = 0.303470:	q_mu = 3.98526	q_A  = 3.96890	CLsb = 0.02295	CLb  = 0.49836	CLs  = 0.04605
+At r = 0.296450:	q_mu = 3.75603	q_A  = 3.74015	CLsb = 0.02631	CLb  = 0.49836	CLs  = 0.05279
+At r = 0.300086:	q_mu = 3.87380	q_A  = 3.85766	CLsb = 0.02452	CLb  = 0.49836	CLs  = 0.04921
+At r = 0.298697:	q_mu = 3.82854	q_A  = 3.81250	CLsb = 0.02519	CLb  = 0.49836	CLs  = 0.05055
+At r = 0.299427:	q_mu = 3.85228	q_A  = 3.83619	CLsb = 0.02484	CLb  = 0.49836	CLs  = 0.04984
+
+ -- Asymptotic -- 
+Observed Limit: r < 0.2994
+Expected  2.5%: r < 0.1856
+Expected 16.0%: r < 0.2311
+Expected 50.0%: r < 0.2998
+Expected 84.0%: r < 0.3894
+Expected 97.5%: r < 0.4894
+
+Done in 0.00 min (cpu), 0.00 min (real)

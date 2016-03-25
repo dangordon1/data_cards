@@ -13,7 +13,7 @@ rate   203.044   0.400503   15.9252   14.7858   46.044   0.434254   3.62204   11
 ------------ 
 uncertainty0 lnN     1.06302   -   -   -   -   -   -   -   -
 uncertainty1 lnN     -   1.24169   -   -   -   -   -   -   -
-uncertainty2 lnN     -   -   inf   -   -   -   -   -   -
+uncertainty2 lnN     -   -   1.06812   -   -   -   -   -   -
 uncertainty3 lnN     -   -   -   1.06481   -   -   -   -   -
 uncertainty4 lnN     -   -   -   -   1.14737   -   -   -   -
 uncertainty5 lnN     -   -   -   -   -   2.5175   -   -   -

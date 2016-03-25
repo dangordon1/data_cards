@@ -13,7 +13,7 @@ rate   265.093   0.577628   32.0891   30.3575   68.6274   0.434254   5.44626   2
 ------------ 
 uncertainty0 lnN     1.05352   -   -   -   -   -   -   -   -
 uncertainty1 lnN     -   1.22519   -   -   -   -   -   -   -
-uncertainty2 lnN     -   -   inf   -   -   -   -   -   -
+uncertainty2 lnN     -   -   1.05802   -   -   -   -   -   -
 uncertainty3 lnN     -   -   -   1.05465   -   -   -   -   -
 uncertainty4 lnN     -   -   -   -   1.12071   -   -   -   -
 uncertainty5 lnN     -   -   -   -   -   2.5175   -   -   -

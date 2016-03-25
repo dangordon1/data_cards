@@ -9,12 +9,12 @@ cd /afs/cern.ch/user/d/dgordon/CMSSW_7_1_5/src/HiggsAnalysis/CombinedLimit/data_
 mvacuts=()
 counter=0
 for filename in *.txt; do
-<<<<<<< HEAD
-	str="$( cut -d '.' -f 3 <<< "$filename")";
-	mva_cut="0.$str";
-	#echo $mva_cut;
+	str=${filename##*>};
+	str=${str%.*};
+	mva_cut=$str;
+	echo $mva_cut;
 	combine -M Asymptotic -m $mva_cut "$filename";
-	#echo $counter
+	echo $counter
 	mvacuts+=($mva_cut)
         ((counter++))
 done
@@ -42,5 +42,5 @@ cd /afs/cern.ch/user/d/dgordon/CMSSW_7_1_5/src/HiggsAnalysis/CombinedLimit
 python plotExpectedVBFLim.py "$1-cards.root" $min $max 
 mv vbflimit.pdf "$1-cards-plot.pdf"
 
-#mv output/test3.txt output/"$str"
+mv output/test3.txt output/"$str"
 

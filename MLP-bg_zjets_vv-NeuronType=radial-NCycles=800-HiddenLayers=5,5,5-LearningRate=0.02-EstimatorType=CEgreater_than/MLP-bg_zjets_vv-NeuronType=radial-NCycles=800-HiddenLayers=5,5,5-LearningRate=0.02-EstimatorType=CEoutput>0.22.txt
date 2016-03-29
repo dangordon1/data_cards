@@ -1,0 +1,22 @@
+imax 1  number of channels 
+jmax 8  number of backgrounds 
+kmax 9  number of nuisance parameters (sources of systematical uncertainties) 
+shapes *    c1  FAKE 
+------------ 
+bin c1 
+observation 1868 
+------------ 
+bin   c1   c1   c1   c1   c1   c1   c1   c1   c1 
+process   signal   bg_zll   bg_wjets_ev   bg_wjets_muv   bg_wjets_tauv   bg_top   bg_vv   bg_zjets_vv   bg_qcd 
+process   0   1   2   3   4   5   6   7   8
+rate   638.386   3.12557   180.831   115.429   250.994   1.0831   35.1478   1240.14   41.5531 
+------------ 
+uncertainty0 lnN     1.0277   -   -   -   -   -   -   -   -
+uncertainty1 lnN     -   1.1315   -   -   -   -   -   -   -
+uncertainty2 lnN     -   -   1.06534   -   -   -   -   -   -
+uncertainty3 lnN     -   -   -   1.02782   -   -   -   -   -
+uncertainty4 lnN     -   -   -   -   1.56257   -   -   -   -
+uncertainty5 lnN     -   -   -   -   -   2.04072   -   -   -
+uncertainty6 lnN     -   -   -   -   -   -   1.16939   -   -
+uncertainty7 lnN     -   -   -   -   -   -   -   1.00139   -
+uncertainty8 lnN     -   -   -   -   -   -   -   -   1.15722

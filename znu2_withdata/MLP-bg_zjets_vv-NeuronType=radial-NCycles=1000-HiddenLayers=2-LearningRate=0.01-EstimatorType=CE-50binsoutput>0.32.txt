@@ -12,11 +12,11 @@ process   0   1   2   3   4   5   6   7   8
 rate   625.53   5.78157   1018.58   219.642   303.551   2.18907   68.5172   2238.31   65.1156 
 ------------ 
 uncertainty0 lnN     1.03998   -   -   -   -   -   -   -   -
-uncertainty1 lnN     -   6.73028   -   -   -   -   -   -   -
-uncertainty2 lnN     -   -   1.04429   -   -   -   -   -   -
-uncertainty3 lnN     -   -   -   1.17838   -   -   -   -   -
-uncertainty4 lnN     -   -   -   -   3.82558   -   -   -   -
-uncertainty5 lnN     -   -   -   -   -   14.666   -   -   -
-uncertainty6 lnN     -   -   -   -   -   -   1.46686   -   -
-uncertainty7 lnN     -   -   -   -   -   -   -   1.12655   -
-uncertainty8 lnN     -   -   -   -   -   -   -   -   1.68319
+uncertainty1 lnN     -   1.11471   -   -   -   -   -   -   -
+uncertainty2 lnN     -   -   1.02177   -   -   -   -   -   -
+uncertainty3 lnN     -   -   -   1.02736   -   -   -   -   -
+uncertainty4 lnN     -   -   -   -   1.41885   -   -   -   -
+uncertainty5 lnN     -   -   -   -   -   1.67588   -   -   -
+uncertainty6 lnN     -   -   -   -   -   -   1.12081   -   -
+uncertainty7 lnN     -   -   -   -   -   -   -   1.00253   -
+uncertainty8 lnN     -   -   -   -   -   -   -   -   1.12392

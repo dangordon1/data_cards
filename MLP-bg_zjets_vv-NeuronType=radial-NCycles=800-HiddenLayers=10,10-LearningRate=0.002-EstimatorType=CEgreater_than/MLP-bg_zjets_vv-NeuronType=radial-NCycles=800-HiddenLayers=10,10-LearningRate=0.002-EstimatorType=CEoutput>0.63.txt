@@ -9,7 +9,7 @@ observation 113
 bin   c1   c1   c1   c1   c1   c1   c1   c1   c1 
 process   signal   bg_zll   bg_wjets_ev   bg_wjets_muv   bg_wjets_tauv   bg_top   bg_vv   bg_zjets_vv   bg_qcd 
 process   0   1   2   3   4   5   6   7   8
-rate   64.3084   0.563255   6.61114   3.58395   16.9313   0   1.64565   79.7421   4.75879 
+rate   64.3085   0.563255   6.61114   3.58395   16.9313   0   1.64565   79.7421   4.75879 
 ------------ 
 uncertainty0 lnN     1.105   -   -   -   -   -   -   -   -
 uncertainty1 lnN     -   1   -   -   -   -   -   -   -

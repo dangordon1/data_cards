@@ -11,12 +11,12 @@ process   signal   bg_zll   bg_wjets_ev   bg_wjets_muv   bg_wjets_tauv   bg_top 
 process   0   1   2   3   4   5   6   7   8
 rate   132.496   0   1.42865   0.492669   1.16002   0   0.0695258   39.0658   0.369817 
 ------------ 
-uncertainty0 lnN     1.08688   -   -   -   -   -   -   -   -
+uncertainty0 lnN     1   -   -   -   -   -   -   -   -
 uncertainty1 lnN     -   2   -   -   -   -   -   -   -
 uncertainty2 lnN     -   -   3.13943   -   -   -   -   -   -
-uncertainty3 lnN     -   -   -   2   -   -   -   -   -
+uncertainty3 lnN     -   -   -   1.39643   -   -   -   -   -
 uncertainty4 lnN     -   -   -   -   1.92847   -   -   -   -
 uncertainty5 lnN     -   -   -   -   -   2   -   -   -
 uncertainty6 lnN     -   -   -   -   -   -   2   -   -
-uncertainty7 lnN     -   -   -   -   -   -   -   1   -
-uncertainty8 lnN     -   -   -   -   -   -   -   -   2
+uncertainty7 lnN     -   -   -   -   -   -   -   10.1591   -
+uncertainty8 lnN     -   -   -   -   -   -   -   -   2.6444

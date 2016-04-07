@@ -16,7 +16,7 @@ uncertainty1 lnN     -   1.21237   -   -   -   -   -   -   -
 uncertainty2 lnN     -   -   1.40001   -   -   -   -   -   -
 uncertainty3 lnN     -   -   -   1.07816   -   -   -   -   -
 uncertainty4 lnN     -   -   -   -   1.18193   -   -   -   -
-uncertainty5 lnN     -   -   -   -   -   2   -   -   -
+uncertainty5 lnN     -   -   -   -   -   -nan   -   -   -
 uncertainty6 lnN     -   -   -   -   -   -   2.17142   -   -
 uncertainty7 lnN     -   -   -   -   -   -   -   1.57969   -
 uncertainty8 lnN     -   -   -   -   -   -   -   -   1.52543

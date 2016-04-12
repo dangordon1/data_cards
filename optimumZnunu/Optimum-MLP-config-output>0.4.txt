@@ -7,7 +7,7 @@ bin c1
 observation 4027 
 ------------ 
 bin   c1   c1   c1   c1   c1   c1   c1   c1   c1 
-Signal   Z_ll   W_enu   W_munu   W_taunu   top   VV   Z_nunu   QCD
+process   Signal   Z_ll   W_enu   W_munu   W_taunu   top   VV   Z_nunu   QCD
 process   0   1   2   3   4   5   6   7   8
 rate   791.197   9.23148   425.893   282.792   544.002   3.37867   72.4205   740.743   67.1559 
 ------------ 

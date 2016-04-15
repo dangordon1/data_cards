@@ -4,12 +4,12 @@ kmax 9  number of nuisance parameters (sources of systematical uncertainties)
 shapes *    c1  FAKE 
 ------------ 
 bin c1 
-observation 1434 
+observation 1576 
 ------------ 
 bin   c1   c1   c1   c1   c1   c1   c1   c1   c1 
 process   Signal   Z_ll   W_enu   W_munu   W_taunu   top   VV   Z_nunu   QCD
 process   0   1   2   3   4   5   6   7   8
-rate   750.811   6.93533   287.594   198.138   409.616   2.37242   35.0182   455.86   38.5732 
+rate   750.811   6.93533   287.594   198.138   409.616   2.37242   35.0182   597.94   38.5732 
 ------------ 
 uncertainty0 lnN     1   -   -   -   -   -   -   -   -
 uncertainty1 lnN     -   1.25819   -   -   -   -   -   -   -
@@ -18,5 +18,5 @@ uncertainty3 lnN     -   -   -   1.05883   -   -   -   -   -
 uncertainty4 lnN     -   -   -   -   1.33229   -   -   -   -
 uncertainty5 lnN     -   -   -   -   -   1.64924   -   -   -
 uncertainty6 lnN     -   -   -   -   -   -   1.16899   -   -
-uncertainty7 lnN     -   -   -   -   -   -   -   1.16358   -
+uncertainty7 lnN     -   -   -   -   -   -   -   1.12471   -
 uncertainty8 lnN     -   -   -   -   -   -   -   -   1.16101

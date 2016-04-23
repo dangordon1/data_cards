@@ -9,14 +9,14 @@ observation 173
 bin   c1   c1   c1   c1   c1   c1   c1   c1   c1 
 process   Signal   Z_ll   W_enu   W_munu   W_taunu   top   VV   Z_nunu   QCD
 process   0   1   2   3   4   5   6   7   8
-rate   209.394   0.468576   16.113   20.6426   25.7334   0   1.04488   55.6416   3.27135 
+rate   209.394   1.06548   16.113   19.5099   50.2759   0   1.04488   126.522   3.27135 
 ------------ 
 uncertainty0 lnN     1   -   -   -   -   -   -   -   -
-uncertainty1 lnN     -   1.75873   -   -   -   -   -   -   -
+uncertainty1 lnN     -   1.64681   -   -   -   -   -   -   -
 uncertainty2 lnN     -   -   1.60924   -   -   -   -   -   -
-uncertainty3 lnN     -   -   -   1.17451   -   -   -   -   -
-uncertainty4 lnN     -   -   -   -   2.34398   -   -   -   -
+uncertainty3 lnN     -   -   -   1.17986   -   -   -   -   -
+uncertainty4 lnN     -   -   -   -   -   -   -   -   -
 uncertainty5 lnN     -   -   -   -   -   -   -   -   -
 uncertainty6 lnN     -   -   -   -   -   -   1.97829   -   -
-uncertainty7 lnN     -   -   -   -   -   -   -   1.4206   -
+uncertainty7 lnN     -   -   -   -   -   -   -   1.42065   -
 uncertainty8 lnN     -   -   -   -   -   -   -   -   1.55289

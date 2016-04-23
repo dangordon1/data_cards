@@ -1,6 +1,6 @@
 imax 1  number of channels
 jmax 8  number of backgrounds
-kmax 9   number of nuisance parameters (sources of systematical uncertainties)
+kmax 10   number of nuisance parameters (sources of systematical uncertainties)
 shapes *    c1  FAKE
 ------------
 bin c1
@@ -19,5 +19,5 @@ uncertainty4 lnN   -   -   -   -   121.2953497   -   -   -   -
 uncertainty5 lnN   -   -   -   -   -   1   -   -   -   
 uncertainty6 lnN   -   -   -   -   -   -   1.800312503   -   -   
 uncertainty7 lnN   -   -   -   -   -   -   -   1.196770228   -   
-uncertainty8 lnN   -   -   -   -   -   -   -   -   1.752134862
-   
+uncertainty8 lnN   -   -   -   -   -   -   -   -   1.75213486
+uncertainty9 lnN  -  1.4  1.4   1.4   1.4   1.4  1.4   1.4  1.4    
